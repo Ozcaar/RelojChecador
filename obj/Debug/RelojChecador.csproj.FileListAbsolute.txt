@@ -1,0 +1,11 @@
+E:\dev\RelojChecador\bin\Debug\RelojChecador.exe.config
+E:\dev\RelojChecador\bin\Debug\RelojChecador.exe
+E:\dev\RelojChecador\bin\Debug\RelojChecador.pdb
+E:\dev\RelojChecador\obj\Debug\RelojChecador.csproj.AssemblyReference.cache
+E:\dev\RelojChecador\obj\Debug\RelojChecador.Main.resources
+E:\dev\RelojChecador\obj\Debug\RelojChecador.Properties.Resources.resources
+E:\dev\RelojChecador\obj\Debug\RelojChecador.csproj.GenerateResource.cache
+E:\dev\RelojChecador\obj\Debug\RelojChecador.csproj.CoreCompileInputs.cache
+E:\dev\RelojChecador\obj\Debug\RelojChecador.exe
+E:\dev\RelojChecador\obj\Debug\RelojChecador.pdb
+E:\dev\RelojChecador\obj\Debug\RelojChecador.Horarios.resources
